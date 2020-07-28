@@ -1,0 +1,4 @@
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+.mat-form-field.mat-focused .mat-form-field-label, input.ng-valid+span.mat-form-field-label-wrapper .mat-form-field-label{
+    display: none !important;
+}
